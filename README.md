@@ -1,6 +1,9 @@
 # PCA-Python-Code
 This code implements Principal Component Analysis (PCA) from scratch using Python. Let’s go step by step to understand the logic behind it.
 
+##Source File:
+PCA.ipynb
+
 # Understanding PCA
 
 Principal Component Analysis (PCA) is a dimensionality reduction technique that transforms data into a new coordinate system where the greatest variance lies on the first principal component, the second greatest variance on the second principal component, and so on.
